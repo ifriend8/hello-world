@@ -2,6 +2,6 @@
 public class HelloWorld {
 	public static void main(String[] agrs)
 	{
-		System.out.println("Fucking");
+		System.out.println("Hello World");
 	}
 }
